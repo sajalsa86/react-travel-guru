@@ -1,0 +1,17 @@
+[
+  {
+    "title": "News Headline 1",
+    "description": "Brief description of the news article goes here.",
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "title": "News Headline 2",
+    "description": "Brief description of the news article goes here.",
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "title": "News Headline 3",
+    "description": "Brief description of the news article goes here.",
+    "image": "https://via.placeholder.com/150"
+  }
+]
